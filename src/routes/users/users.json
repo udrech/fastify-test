@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Doe",
+      "firstname": "John",
+      "username": "jdoe",
+      "email": "j.doe@starbucks.com"
+    },
+    {
+      "id": 2,
+      "name": "Smith",
+      "firstname": "Jane",
+      "username": "jsmith",
+      "email": "j.smith@starbucks.com"
+    }
+  ]
+}

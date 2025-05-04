@@ -21,3 +21,7 @@ Run the test cases.
 ## Learn More
 
 To learn Fastify, check out the [Fastify documentation](https://fastify.dev/docs/latest/).
+
+# Links
+
+https://medium.com/swlh/using-three-of-the-top-nodejs-web-rest-api-frameworks-d1d6dac021ee
